@@ -1,0 +1,31 @@
+{
+  "id": "43a84197-e4ee-4a00-af71-538e9848093c",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It was great talking to you,Hope we can do this sometime soon.",
+            "Farewell, I wish you best of luck on behalf of the developers",
+            "Going away so soon? Am I boring?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

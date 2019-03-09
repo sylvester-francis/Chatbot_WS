@@ -1,0 +1,38 @@
+{
+  "id": "281c59b2-b7dd-4c47-833d-4832fe33a761",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing? I\u0027m a virtual chatbot created by group 105",
+            "Hello! How can I help you? I\u0027m a virtual chatbot created by group 105",
+            "Good day! What can I do for you today? I\u0027m a virtual chatbot created by group 105",
+            "Greetings! How can I assist? I\u0027m a virtual chatbot created by group 105",
+            "Hello, I\u0027m a virtual chatbot created by group 105"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

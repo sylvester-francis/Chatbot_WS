@@ -1,0 +1,27 @@
+{
+  "id": "2f77a47b-4845-486b-bd4a-cec353fcebb7",
+  "name": "about_developers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I was built by group 105 consisting of Sylvester, Kunal, Samieksha , Nikita , Shashank and Kandarp as part of the web services digital assignment"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

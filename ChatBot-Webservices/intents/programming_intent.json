@@ -1,0 +1,27 @@
+{
+  "id": "10b6fa73-6c37-48dc-87b6-196466a157e4",
+  "name": "programming_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I was built using Google\u0027s dialogflow platform and an Android Java client. You can replicate me utilising any client scripting language ... just contact the developers"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

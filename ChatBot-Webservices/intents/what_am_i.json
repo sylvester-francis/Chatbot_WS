@@ -1,0 +1,30 @@
+{
+  "id": "bc6ec5ee-1cb6-48cb-8121-7b3c10a079e6",
+  "name": "what_am_i",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m a virtual bot",
+            "I\u0027m a chatbot and I\u0027m on the bleeding edge of technology"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

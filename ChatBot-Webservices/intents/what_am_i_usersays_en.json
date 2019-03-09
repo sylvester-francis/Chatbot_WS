@@ -1,0 +1,24 @@
+[
+  {
+    "id": "531e8925-c92c-485f-b199-38727faf72bb",
+    "data": [
+      {
+        "text": "Who am I chatting with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a71c810-06a7-4160-9599-f13089c49b93",
+    "data": [
+      {
+        "text": "What are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
