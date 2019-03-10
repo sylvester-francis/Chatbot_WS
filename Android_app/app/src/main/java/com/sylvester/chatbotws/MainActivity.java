@@ -7,6 +7,7 @@ import android.os.Bundle;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -68,7 +69,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        TextView mTitle = (TextView) toolbar.findViewById(R.id.toolbar_title);
 
+        setSupportActionBar(toolbar);
+        mTitle.setText(R.string.tool_title);
+
+
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
 
 
 

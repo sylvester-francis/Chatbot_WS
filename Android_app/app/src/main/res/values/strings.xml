@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DialogFlow-ChatBot</string>
+    <string name="tool_title">Chatty</string>
+
 </resources>
