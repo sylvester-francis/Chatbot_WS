@@ -1,0 +1,46 @@
+[
+  {
+    "value": "extremely hot",
+    "synonyms": [
+      "extrem heiß"
+    ]
+  },
+  {
+    "value": "chilly",
+    "synonyms": [
+      "kühl"
+    ]
+  },
+  {
+    "value": "mild",
+    "synonyms": [
+      "mild",
+      "mildes"
+    ]
+  },
+  {
+    "value": "freezing",
+    "synonyms": [
+      "eiskalt",
+      "eisig"
+    ]
+  },
+  {
+    "value": "cold",
+    "synonyms": [
+      "kalt"
+    ]
+  },
+  {
+    "value": "hot",
+    "synonyms": [
+      "heiß"
+    ]
+  },
+  {
+    "value": "warm",
+    "synonyms": [
+      "warm"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "id": "0928b4f3-6bf8-495f-9e9b-e0204ff8e7a3",
+  "name": "reminders.location_based.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.location_based.add",
+      "affectedContexts": [
+        {
+          "name": "reminders",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7b49e94a-7217-42c4-a771-a558c8827275",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me the name for this reminder please."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "1a03ad81-f357-4fde-b141-eb13172f9d59",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where do you want to be reminded about this?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d9363188-1bd2-41b8-a4b6-115fbe6f1a05",
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "isList": false
+        },
+        {
+          "id": "6ef757d8-a42f-4d71-9f98-b9ff83090e6d",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508523803,
+  "fallbackIntent": false,
+  "events": []
+}

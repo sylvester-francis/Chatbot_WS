@@ -1,0 +1,18 @@
+[
+  {
+    "value": "hot",
+    "synonyms": [
+      "calor",
+      "calorzinho",
+      "calorzão",
+      "quente"
+    ]
+  },
+  {
+    "value": "cold",
+    "synonyms": [
+      "frio",
+      "friozinho"
+    ]
+  }
+]

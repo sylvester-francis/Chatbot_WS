@@ -1,0 +1,69 @@
+[
+  {
+    "value": "surfing",
+    "synonyms": [
+      "surfar"
+    ]
+  },
+  {
+    "value": "cycling",
+    "synonyms": [
+      "pedalar"
+    ]
+  },
+  {
+    "value": "skiing",
+    "synonyms": [
+      "esquiar"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "escalar"
+    ]
+  },
+  {
+    "value": "snowball fighting",
+    "synonyms": [
+      "guerras de bola de neve"
+    ]
+  },
+  {
+    "value": "running",
+    "synonyms": [
+      "correr"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "patinar"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "jogar frisbee"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "nadar"
+    ]
+  },
+  {
+    "value": "go to the beach",
+    "synonyms": [
+      "ir a praia"
+    ]
+  },
+  {
+    "value": "walking",
+    "synonyms": [
+      "caminhar",
+      "caminhada"
+    ]
+  }
+]

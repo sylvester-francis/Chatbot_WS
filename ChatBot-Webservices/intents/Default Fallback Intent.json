@@ -12,6 +12,17 @@
       "messages": [
         {
           "type": 0,
+          "lang": "fr",
+          "speech": [
+            "J\u0027ai du mal à comprendre cette question.",
+            "J\u0027ai mal compris votre demande.",
+            "Je n\u0027ai pas saisi ce que vous avez dit.",
+            "Je crois que je ne vous suis pas.",
+            "Je ne comprends pas de quoi vous me parlez."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
           "speech": [
             "I didn\u0027t get that. Can you say it again?",

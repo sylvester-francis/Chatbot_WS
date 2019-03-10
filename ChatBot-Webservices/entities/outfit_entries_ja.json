@@ -1,0 +1,295 @@
+[
+  {
+    "value": "boots",
+    "synonyms": [
+      "ブーツ"
+    ]
+  },
+  {
+    "value": "gum boots",
+    "synonyms": [
+      "レインブーツ",
+      "ゴム長靴",
+      "雨靴"
+    ]
+  },
+  {
+    "value": "dress",
+    "synonyms": [
+      "ドレス"
+    ]
+  },
+  {
+    "value": "sweatshirt",
+    "synonyms": [
+      "スウェットシャツ",
+      "トレーナー"
+    ]
+  },
+  {
+    "value": "sneakers",
+    "synonyms": [
+      "スニーカー"
+    ]
+  },
+  {
+    "value": "rain coat",
+    "synonyms": [
+      "レインコート"
+    ]
+  },
+  {
+    "value": "slippers",
+    "synonyms": [
+      "スリッパ"
+    ]
+  },
+  {
+    "value": "sweater",
+    "synonyms": [
+      "セーター"
+    ]
+  },
+  {
+    "value": "scarf",
+    "synonyms": [
+      "スカーフ"
+    ]
+  },
+  {
+    "value": "rain pants",
+    "synonyms": [
+      "レインパンツ"
+    ]
+  },
+  {
+    "value": "sweatpants",
+    "synonyms": [
+      "スエットパンツ",
+      "トレーニングパンツ",
+      "トレパン"
+    ]
+  },
+  {
+    "value": "bra",
+    "synonyms": [
+      "ブラ"
+    ]
+  },
+  {
+    "value": "jeans",
+    "synonyms": [
+      "ジーンズ",
+      "ジンス",
+      "ジーンズパンツ"
+    ]
+  },
+  {
+    "value": "socks",
+    "synonyms": [
+      "ソックス"
+    ]
+  },
+  {
+    "value": "coat",
+    "synonyms": [
+      "コート",
+      "上着"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "ジャケット"
+    ]
+  },
+  {
+    "value": "jumper",
+    "synonyms": [
+      "ジャンパー"
+    ]
+  },
+  {
+    "value": "sunscreen",
+    "synonyms": [
+      "サンスクリーン",
+      "日焼け止め"
+    ]
+  },
+  {
+    "value": "hat",
+    "synonyms": [
+      "帽子",
+      "ハット"
+    ]
+  },
+  {
+    "value": "gloves",
+    "synonyms": [
+      "手袋",
+      "手ぶくろ",
+      "グローブ",
+      "グラブ"
+    ]
+  },
+  {
+    "value": "snowboard pants",
+    "synonyms": [
+      "スノーボードパンツ"
+    ]
+  },
+  {
+    "value": "shirt",
+    "synonyms": [
+      "シャツ"
+    ]
+  },
+  {
+    "value": "pants",
+    "synonyms": [
+      "パンツ",
+      "ズボン"
+    ]
+  },
+  {
+    "value": "umbrella",
+    "synonyms": [
+      "傘"
+    ]
+  },
+  {
+    "value": "swimwear",
+    "synonyms": [
+      "水着",
+      "水泳着",
+      "ビキニ"
+    ]
+  },
+  {
+    "value": "hoodie",
+    "synonyms": [
+      "パーカー"
+    ]
+  },
+  {
+    "value": "cardigan",
+    "synonyms": [
+      "カーデガン",
+      "カーディガン"
+    ]
+  },
+  {
+    "value": "t-shirt",
+    "synonyms": [
+      "Tシャツ"
+    ]
+  },
+  {
+    "value": "lounge wear",
+    "synonyms": [
+      "ラウンジウエア"
+    ]
+  },
+  {
+    "value": "sunglasses",
+    "synonyms": [
+      "サングラス"
+    ]
+  },
+  {
+    "value": "capri",
+    "synonyms": [
+      "カプリ",
+      "カプリパンツ"
+    ]
+  },
+  {
+    "value": "shawls",
+    "synonyms": [
+      "ショール",
+      "肩掛け"
+    ]
+  },
+  {
+    "value": "tie",
+    "synonyms": [
+      "ネクタイ"
+    ]
+  },
+  {
+    "value": "shorts",
+    "synonyms": [
+      "半ズボン",
+      "ショーツ"
+    ]
+  },
+  {
+    "value": "tank top",
+    "synonyms": [
+      "タンクトップ"
+    ]
+  },
+  {
+    "value": "sandals",
+    "synonyms": [
+      "サンダル",
+      "下駄"
+    ]
+  },
+  {
+    "value": "skirt",
+    "synonyms": [
+      "スカート"
+    ]
+  },
+  {
+    "value": "rain jacket",
+    "synonyms": [
+      "レインジャケット"
+    ]
+  },
+  {
+    "value": "casual shirt",
+    "synonyms": [
+      "カジュアルシャツ"
+    ]
+  },
+  {
+    "value": "pajama",
+    "synonyms": [
+      "パジャマ"
+    ]
+  },
+  {
+    "value": "suit",
+    "synonyms": [
+      "スーツ"
+    ]
+  },
+  {
+    "value": "ski pants",
+    "synonyms": [
+      "スキーパンツ"
+    ]
+  },
+  {
+    "value": "underwear",
+    "synonyms": [
+      "下着",
+      "肌着"
+    ]
+  },
+  {
+    "value": "yukata",
+    "synonyms": [
+      "浴衣",
+      "ゆかた"
+    ]
+  },
+  {
+    "value": "kimono",
+    "synonyms": [
+      "着物"
+    ]
+  }
+]

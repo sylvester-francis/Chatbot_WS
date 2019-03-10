@@ -1,0 +1,147 @@
+[
+  {
+    "value": "skating",
+    "synonyms": [
+      "schlittschuhlaufen",
+      "schlittschuh laufen"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "klettern",
+      "bergsteigern"
+    ]
+  },
+  {
+    "value": "snowboarding",
+    "synonyms": [
+      "snowboarding",
+      "snowboarden"
+    ]
+  },
+  {
+    "value": "workout",
+    "synonyms": [
+      "training",
+      "trainieren"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "laufen",
+      "rennen",
+      "gerennt",
+      "gelaufen"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "joggen",
+      "jogging"
+    ]
+  },
+  {
+    "value": "walking",
+    "synonyms": [
+      "gehen",
+      "spazieren gehen",
+      "spazieren",
+      "wandern",
+      "zu fuß"
+    ]
+  },
+  {
+    "value": "parasailing",
+    "synonyms": [
+      "parasailing",
+      "parasegeln"
+    ]
+  },
+  {
+    "value": "snowball fights",
+    "synonyms": [
+      "Schneeballschlacht",
+      "Schneeballschlachten"
+    ]
+  },
+  {
+    "value": "go sledding",
+    "synonyms": [
+      "rodeln"
+    ]
+  },
+  {
+    "value": "fly a kite",
+    "synonyms": [
+      "Drachen steigen",
+      "Drachen fliegen",
+      "Drachen steigen lassen",
+      "Drachen fliegen lassen",
+      "drahen steigen"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "surfen",
+      "surfing"
+    ]
+  },
+  {
+    "value": "renne",
+    "synonyms": [
+      "renne"
+    ]
+  },
+  {
+    "value": "skiing",
+    "synonyms": [
+      "skifahren",
+      "ski fahren",
+      "schi fahren",
+      "ski",
+      "schi"
+    ]
+  },
+  {
+    "value": "camping",
+    "synonyms": [
+      "camping",
+      "zelten",
+      "Campingwetter"
+    ]
+  },
+  {
+    "value": "cycling",
+    "synonyms": [
+      "Radfahren",
+      "Fahrradfahren",
+      "Rad fahren",
+      "Fahrrad fahren",
+      "Fahrradwetter",
+      "Radtour"
+    ]
+  },
+  {
+    "value": "riding",
+    "synonyms": [
+      "reiten"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "swimmen",
+      "schwimmen"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "frisbee"
+    ]
+  }
+]

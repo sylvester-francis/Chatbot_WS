@@ -1,0 +1,94 @@
+[
+  {
+    "id": "d3639242-bf3e-401a-b63e-797d84f67728",
+    "data": [
+      {
+        "text": "I\u0027m celebrating my birthday today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db4c267e-b87c-4fd6-aced-9bb763ab38fb",
+    "data": [
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is my ",
+        "userDefined": false
+      },
+      {
+        "text": "birthday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89fc2b7b-15ca-4d92-9682-db553c5a55d8",
+    "data": [
+      {
+        "text": "it\u0027s my b-day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb697fb2-82b3-4fc3-80f7-c9edd0f090ea",
+    "data": [
+      {
+        "text": "it\u0027s my birthday today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72568cca-fba8-4b89-8e05-a072f84cceec",
+    "data": [
+      {
+        "text": "I was born today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dff0a2b-b575-469c-9610-172693e4110c",
+    "data": [
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is my ",
+        "userDefined": false
+      },
+      {
+        "text": "birthday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

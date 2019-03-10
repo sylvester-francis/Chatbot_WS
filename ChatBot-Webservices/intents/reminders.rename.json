@@ -1,0 +1,58 @@
+{
+  "id": "b2bcfa8d-f579-42f1-83ae-ad6982ec3fda",
+  "name": "reminders.rename",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.rename",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c429a354-f67e-4c1e-9e4f-bdd1490cf4dd",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "old-name",
+          "value": "$old-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the name of the reminder you want to change?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "44edda84-35f3-4ead-ac84-e42a649d0bd8",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the new name?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Done!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508524070,
+  "fallbackIntent": false,
+  "events": []
+}

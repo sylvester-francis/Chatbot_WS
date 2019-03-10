@@ -1,8 +1,12 @@
 {
   "description": "A test chat bot created for the purposes of submitting for WebServices Assignment by Group 105",
   "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
   "disableInteractionLogs": false,
-  "disableStackdriverLogs": true,
+  "disableStackdriverLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": false,
     "welcomeIntentSignInRequired": false,
@@ -31,10 +35,12 @@
   "isPrivate": true,
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
-  "supportedLanguages": [],
-  "onePlatformApiVersion": "v1legacy",
+  "supportedLanguages": [
+    "fr"
+  ],
+  "onePlatformApiVersion": "v2beta1",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
-  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "knowledgeServiceConfidenceAdjustment": -0.2,
   "dialogBuilderMode": false
 }

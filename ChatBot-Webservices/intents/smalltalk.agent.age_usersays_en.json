@@ -1,0 +1,122 @@
+[
+  {
+    "id": "6a7ab71b-0435-40ae-af8f-04341eedf962",
+    "data": [
+      {
+        "text": "age of yours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda9f800-4b68-4749-b7a3-d305159d9d11",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d22d9c77-17d9-4548-ade0-811813ab41b2",
+    "data": [
+      {
+        "text": "what\u0027s your age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517605715
+  },
+  {
+    "id": "9630dd01-890c-48d2-beba-2347fa255658",
+    "data": [
+      {
+        "text": "I\u0027d like to know your age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b41bece9-2212-4290-8c9a-824c89dc3ba3",
+    "data": [
+      {
+        "text": "are you ",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "alias": "age",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " years old",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517605715
+  },
+  {
+    "id": "ac45e614-3d87-4d00-a279-bbc389b0e01e",
+    "data": [
+      {
+        "text": "how old ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e58cd738-94cc-4c5d-941d-9b27444762e8",
+    "data": [
+      {
+        "text": "tell me your age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67f3e6a3-2b68-4e66-9b0f-1b546a703fc9",
+    "data": [
+      {
+        "text": "how old is your platform",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

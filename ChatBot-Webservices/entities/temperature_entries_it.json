@@ -1,0 +1,44 @@
+[
+  {
+    "value": "extremely hot",
+    "synonyms": [
+      "veramente caldo",
+      "caldissimo",
+      "caldissima"
+    ]
+  },
+  {
+    "value": "freezing",
+    "synonyms": [
+      "congelato",
+      "congelata"
+    ]
+  },
+  {
+    "value": "mild",
+    "synonyms": [
+      "clima mite"
+    ]
+  },
+  {
+    "value": "chilly",
+    "synonyms": [
+      "fresco",
+      "fresca"
+    ]
+  },
+  {
+    "value": "cold",
+    "synonyms": [
+      "freddo",
+      "bassa"
+    ]
+  },
+  {
+    "value": "hot",
+    "synonyms": [
+      "caldo",
+      "alta"
+    ]
+  }
+]

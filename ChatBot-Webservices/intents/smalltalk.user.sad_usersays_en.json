@@ -1,0 +1,124 @@
+[
+  {
+    "id": "c58395bb-f0f0-473c-af49-75adf547e1ca",
+    "data": [
+      {
+        "text": "I\u0027m grieving",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "63d1ac74-8a66-4de4-b141-a7f9dc3b089e",
+    "data": [
+      {
+        "text": "I\u0027m having a bad day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "556d74e9-b7b6-4574-82ed-bc5b79dd815e",
+    "data": [
+      {
+        "text": "I am upset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "c36b043e-4327-4cc3-9dfb-3fff73d22078",
+    "data": [
+      {
+        "text": "I am feeling sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "0dc09ba6-11b3-47af-819a-582a0dbb3c94",
+    "data": [
+      {
+        "text": "I\u0027m unhappy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "4dafef0e-dfec-43b2-9a7c-2bcedbd905e8",
+    "data": [
+      {
+        "text": "I am sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "a0f40b93-9388-4db4-bc82-2003a52d5a27",
+    "data": [
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "ff063b17-9083-4091-8261-fd3ddf7714d0",
+    "data": [
+      {
+        "text": "I\u0027m not happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "9c54c26f-9c63-4d7b-b098-93dad75e3f51",
+    "data": [
+      {
+        "text": "I am depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  }
+]

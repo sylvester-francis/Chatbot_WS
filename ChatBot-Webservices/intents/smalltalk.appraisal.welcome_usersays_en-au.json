@@ -1,0 +1,141 @@
+[
+  {
+    "id": "bd43c1f5-c031-4708-8f8f-691c98de64e4",
+    "data": [
+      {
+        "text": "that\u0027s my pleasure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04523859-508b-42af-8c46-e9ff5f474272",
+    "data": [
+      {
+        "text": "sure",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9768a91-a0d3-4ef4-8ca6-25ff30f7bdb9",
+    "data": [
+      {
+        "text": "anytime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0dec7e7-de31-4024-b07f-80c4b8f9b6fb",
+    "data": [
+      {
+        "text": "anything you want",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31f421d8-98d8-408c-88ef-6cbb46f8dc76",
+    "data": [
+      {
+        "text": "you\u0027re so ",
+        "userDefined": false
+      },
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ff9039f-00a1-405f-85b4-84d608272661",
+    "data": [
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63ea1661-3bc5-4099-83c4-4953fdc0b558",
+    "data": [
+      {
+        "text": "you\u0027re ",
+        "userDefined": false
+      },
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e6814c4-20e3-4922-86c6-b5c5139c182f",
+    "data": [
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a167007c-08b1-4382-9e64-3fc7c25a0845",
+    "data": [
+      {
+        "text": "my pleasure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

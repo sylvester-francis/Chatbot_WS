@@ -1,0 +1,87 @@
+[
+  {
+    "value": "wind",
+    "synonyms": [
+      "vento",
+      "ventoso"
+    ]
+  },
+  {
+    "value": "ice",
+    "synonyms": [
+      "ghiaccio"
+    ]
+  },
+  {
+    "value": "clouds",
+    "synonyms": [
+      "nuvola",
+      "nuvole",
+      "nuvoloso"
+    ]
+  },
+  {
+    "value": "sun",
+    "synonyms": [
+      "sole"
+    ]
+  },
+  {
+    "value": "thunderstorm",
+    "synonyms": [
+      "temporale",
+      "tempesta"
+    ]
+  },
+  {
+    "value": "snow",
+    "synonyms": [
+      "neve",
+      "nevica",
+      "nevicare",
+      "nevicherà"
+    ]
+  },
+  {
+    "value": "rain",
+    "synonyms": [
+      "pioggia",
+      "piovere",
+      "piovendo",
+      "piove",
+      "pioverà"
+    ]
+  },
+  {
+    "value": "wind",
+    "synonyms": [
+      "tira vento"
+    ]
+  },
+  {
+    "value": "fog",
+    "synonyms": [
+      "nebbia",
+      "nebbioo"
+    ]
+  },
+  {
+    "value": "smoke",
+    "synonyms": [
+      "fumo"
+    ]
+  },
+  {
+    "value": "rain snow",
+    "synonyms": [
+      "pioggia e neve",
+      "neve e pioggia"
+    ]
+  },
+  {
+    "value": "haze",
+    "synonyms": [
+      "foschia"
+    ]
+  }
+]

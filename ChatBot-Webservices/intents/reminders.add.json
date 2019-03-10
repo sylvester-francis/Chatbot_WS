@@ -1,0 +1,75 @@
+{
+  "id": "bfdfafa6-9302-412b-9e6b-5b3d8a966735",
+  "name": "reminders.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.add",
+      "affectedContexts": [
+        {
+          "name": "reminders",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "38fd2099-fae3-48d5-a40c-132814464f48",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How should I name this reminder?"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me the name for this reminder."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "4ff64e60-70fd-46c3-9cc3-2a8deae0b983",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "When should I remind you?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "b1f96d3e-0ffc-4a84-b194-911f77765104",
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Scheduled!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508527273,
+  "fallbackIntent": false,
+  "events": []
+}

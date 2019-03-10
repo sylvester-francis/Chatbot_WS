@@ -12,6 +12,16 @@
       "messages": [
         {
           "type": 0,
+          "lang": "fr",
+          "speech": [
+            "Salut !",
+            "Bonjour !",
+            "Salutations !",
+            "Bienvenue !"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
           "speech": [
             "Hi! How are you doing? I\u0027m a virtual chatbot created by group 105",
