@@ -1,5 +1,7 @@
 package com.sylvester.chatbotws;
 
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -62,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         final ScrollView scrollview = findViewById(R.id.chatScrollView);
         scrollview.post(() -> scrollview.fullScroll(ScrollView.FOCUS_DOWN));
 
@@ -123,10 +126,7 @@ public class MainActivity extends AppCompatActivity {
         } else {
             showTextView(msg, USER);
             queryEditText.setText("");
-            // Android client
-//            aiRequest.setQuery(msg);
-//            RequestTask requestTask = new RequestTask(MainActivity.this, aiDataService, customAIServiceContext);
-//            requestTask.execute(aiRequest);
+
 
             // Java V2
             QueryInput queryInput = QueryInput.newBuilder().setText(TextInput.newBuilder().setText(msg).setLanguageCode("en-US")).build();
