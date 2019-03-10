@@ -30,6 +30,9 @@ import com.google.cloud.dialogflow.v2beta1.SessionsSettings;
 import com.google.cloud.dialogflow.v2beta1.TextInput;
 
 import java.io.InputStream;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.UUID;
 
 import ai.api.AIServiceContext;
@@ -59,10 +62,14 @@ public class MainActivity extends AppCompatActivity {
     private SessionName session;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
 
 
         final ScrollView scrollview = findViewById(R.id.chatScrollView);
@@ -173,8 +180,13 @@ public class MainActivity extends AppCompatActivity {
         }
         layout.setFocusableInTouchMode(true);
         chatLayout.addView(layout); // move focus to text view to automatically make it scroll up if softfocus
+        Calendar cal = Calendar.getInstance();
+        DateFormat df = new SimpleDateFormat("hh:mm");
+        String date_str = df.format(cal.getTime());
         TextView tv = layout.findViewById(R.id.chatMsg);
         tv.setText(message);
+        TextView time = layout.findViewById(R.id.tv_time);
+        time.setText(date_str);
         layout.requestFocus();
         queryEditText.requestFocus(); // change focus back to edit text to continue typing
     }
