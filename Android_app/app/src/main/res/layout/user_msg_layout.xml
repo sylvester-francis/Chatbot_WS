@@ -31,6 +31,12 @@
             android:background="@drawable/user_bg_bubble"
             />
 
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/person"
+            android:layout_marginRight="@dimen/space10"/>
+
 
         <TextView
             android:id="@+id/tv_time"
@@ -44,6 +50,8 @@
             android:textSize="@dimen/h4"
             android:textAppearance="@style/ExtraLight"
             android:layout_centerVertical="true"/>
+
+
 
 
 

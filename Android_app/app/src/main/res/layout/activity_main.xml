@@ -5,44 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-<!---
-    <RelativeLayout
-        android:id="@+id/inputLayout"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:background="@drawable/rounded_edittext"
-        android:gravity="bottom"
-        android:paddingStart="10dp"
-        android:paddingTop="10dp"
-        android:paddingEnd="10dp"
-        android:paddingBottom="10dp"
-        >
 
-
-
-        <ImageView
-            android:id="@+id/sendBtn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true"
-            android:paddingTop="4dp"
-            app:srcCompat="@drawable/chatbot_send_btn" />
-
-        <EditText
-            android:id="@+id/queryEditText"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentStart="true"
-            android:layout_toStartOf="@+id/sendBtn"
-            android:imeOptions="actionSend"
-            android:inputType="text"
-            android:paddingTop="4dp"
-            android:textSize="18sp" />
-
-    </RelativeLayout>
-
--->
     <RelativeLayout
         android:id="@+id/inputLayout"
         android:layout_width="match_parent"
