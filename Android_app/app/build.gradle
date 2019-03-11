@@ -10,19 +10,22 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+        ignoreWarnings true //false
+    }
+
+
     buildTypes {
         release {
-            minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            buildConfigField 'String', "ClientAccessToken", CLIENT_ACCESS_TOKEN
-            resValue 'string', "ClientAccessToken", CLIENT_ACCESS_TOKEN
-        }
-        debug {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             buildConfigField 'String', "ClientAccessToken", CLIENT_ACCESS_TOKEN
             resValue 'string', "ClientAccessToken", CLIENT_ACCESS_TOKEN
         }
+
     }
 
     compileOptions {

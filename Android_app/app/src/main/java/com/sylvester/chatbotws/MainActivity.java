@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getSimpleName();
     private static final int USER = 10001;
     private static final int BOT = 10002;
+    private static final int USUAL = 10003;
 
     private String uuid = UUID.randomUUID().toString();
     private LinearLayout chatLayout;
@@ -103,9 +104,9 @@ public class MainActivity extends AppCompatActivity {
             return false;
         });
 
-        // Android client
-//        initChatbot();
 
+        showTextView("Hey there, I'm Chatty",USUAL);
+        showTextView("Ask me anything",USUAL);
         // Java V2
         initV2Chatbot();
     }
@@ -182,6 +183,9 @@ public class MainActivity extends AppCompatActivity {
             case BOT:
                 layout = getBotLayout();
                 break;
+            case USUAL:
+                  layout = getDefaultLayout();
+                  break;
             default:
                 layout = getBotLayout();
                 break;
@@ -207,5 +211,10 @@ public class MainActivity extends AppCompatActivity {
     FrameLayout getBotLayout() {
         LayoutInflater inflater = LayoutInflater.from(MainActivity.this);
         return (FrameLayout) inflater.inflate(R.layout.bot_msg_layout, null);
+    }
+
+    FrameLayout getDefaultLayout() {
+        LayoutInflater inflater = LayoutInflater.from(MainActivity.this);
+        return (FrameLayout) inflater.inflate(R.layout.initial_layout, null);
     }
 }
